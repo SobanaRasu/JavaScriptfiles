@@ -1,0 +1,4 @@
+Notify the right people, reduce response time, and avoid alert fatigue
+Opsgenie is a modern incident management platform that ensures critical incidents are never missed, and actions are taken by the right people in the shortest possible time. Opsgenie receives alerts from your monitoring systems and custom applications and categorizes each alert based on importance and timing.
+
+On-call schedules ensure the right people are notified through multiple communication channels including voice calls, email, SMS, and push messages on mobile devices. If an alert is not acknowledged, Opsgenie automatically escalates it, ensuring the incident gets the needed attention. Sign up for an instant free trial.
